@@ -1,0 +1,7 @@
+#countryImg {
+  margin: auto;
+  justify-content: center;
+  flex-direction: column;
+  flex: content;
+  flex-wrap: wrap-reverse;
+}
